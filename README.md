@@ -1,4 +1,11 @@
-### Hi there 👋
+#### Hello :wave:
+
+I am an Assistant Professor of Statistics at St. Lawrence University in Canton, NY :snowflake: :snowflake: 
+
+I graduated from Oregon State University in 2019 with a PhD in stats :mortar_board:
+
+My field is spatial statistics :earth_americas:, and I'm currently learning how to write better R packages for spatial analysis :package:
+
 
 <!--
 **highamm/highamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
