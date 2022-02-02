@@ -2,7 +2,7 @@
 
 I am an Assistant Professor of Statistics at St. Lawrence University in Canton, NY :snowflake: :snowflake: 
 
-I graduated from Oregon State University in 2019 with a PhD in stats :mortar_board:
+I graduated from Oregon State University in 2019 with a PhD in stats :mortar_board: 
 
 I've worked on applications of spatial statistics in the ecological sciences :earth_americas:, and I'm currently learning how to write better R packages for spatial and spatiotemporal analyses :package:
 
