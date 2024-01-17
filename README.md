@@ -1,4 +1,4 @@
-#### Hello :wave:
+#### Hello :wave: 
 
 I am an Assistant Professor of Statistics at St. Lawrence University in Canton, NY :snowflake: :snowflake: 
 
